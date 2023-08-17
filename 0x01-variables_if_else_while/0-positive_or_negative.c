@@ -3,8 +3,10 @@
 #include <stdio.h>
 
 
-/* main - function that check if n is either positive or negative or zero */
-/* return is always 0 */
+/** 
+ * main - function that check if n is either positive or negative or zero 
+ * return is always 0 (succes)
+ */
 int main(void)
 {
 	int n;
