@@ -8,7 +8,6 @@
 /* more headers goes there */
 /* main - function that check if n is either positive or negative or zero */
 /* return is always 0 */
-
 int main(void)
 {
 	int n;
