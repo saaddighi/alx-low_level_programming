@@ -4,8 +4,9 @@
 
 
 /** 
- * main - function that check if n is either positive or negative or zero 
+ * main - Prints if number is positive, zero ro negative 
  * return is always 0 (succes)
+ *
  */
 int main(void)
 {
