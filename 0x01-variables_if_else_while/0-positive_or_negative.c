@@ -4,7 +4,7 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there, good function */
-/* a function that check if n is either positive or negative or zero */
+/*main is  a function that check if n is either positive or negative or zero */
 int main(void)
 {
 	int n;
