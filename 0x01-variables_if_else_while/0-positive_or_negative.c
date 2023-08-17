@@ -3,8 +3,8 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there
-  a function that check if n is either positive or negative or zero */
+/* betty style doc for function main goes there */
+/* a function that check if n is either positive or negative or zero */
 int main(void)
 {
 	int n;
